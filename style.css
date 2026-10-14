@@ -1,0 +1,41 @@
+body{
+    background-color:rgb(255, 73, 73);
+}
+.head{
+    color:blue;
+}
+#bglime{
+    background-color:lime;
+    
+}
+p{
+    color:white;
+}
+#para{
+    color:green
+}
+.short{
+    color:red;
+}
+.paragraph{
+    color:black;
+}
+ul::here{
+    color:blue;
+}
+ul li:nth-child(1) a{
+    background-color:yellow;
+}
+ul li:nth-child(2) a{
+    background-color:lightblue;
+}
+ul li{
+    color:white;
+}
+
+ol li:nth-child(2){
+    color:blue;
+}
+ol li:nth-child(3){
+    color:red;
+}
